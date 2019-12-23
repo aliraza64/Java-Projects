@@ -1,2 +1,2 @@
 # Java-Projects
-Different type of java Projects
+Netbeans Office Management System Project
