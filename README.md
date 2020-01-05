@@ -2,8 +2,10 @@
 Netbeans 8.2 IDE Office Management System
 
 Clone this project and add 2 Jar files in library
-# 1 mysql-connector            (for database connection)
-# 2 rs2xml                     (for getting values on table)
+# 1 
+mysql-connector            (for database connection)
+# 2 
+rs2xml                     (for getting values on table)
 
 # DATABASE
 Create 7 tables in Data Base
